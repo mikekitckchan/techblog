@@ -10,7 +10,7 @@ Bootstrap is an opensource tool for website design using HTML, CSS and Javascrip
 
 So, to begin, how to setup? To include bootstrap in your project, you don't need to install or download anything. You can simply go to https://getbootstrap.com. And click get started.
 
-![screenshot1](assets/images/bootstraptutorial1.png)
+<span class="image left"><img src="{{ 'assets/images/bootstraptutorial1.jpg' | relative_url }}" alt="" /></span>
 
 Then, you would find a template like the one below.
 
