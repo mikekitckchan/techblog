@@ -1,4 +1,8 @@
-
+---
+title: A guide to Bootstrap
+author: Mike Chan
+layout: post
+---
 
 ## 1. What is Bootstrap
 
