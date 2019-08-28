@@ -1,5 +1,5 @@
 ---
-title: A guide to Bootstrap
+title: A Beginner Guide to Bootstrap
 author: Mike Chan
 layout: post
 ---
