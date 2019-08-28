@@ -1,4 +1,4 @@
-# Bootstrap Tutorial (Part 1)
+
 
 ## 1. What is Bootstrap
 
