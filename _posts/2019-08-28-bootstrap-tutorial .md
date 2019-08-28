@@ -10,14 +10,7 @@ So, to begin, how to setup? To include bootstrap in your project, you don't need
 
 Then, you would find a template like the one below.
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-```HTML
+```html
 <!doctype html>
 <html lang="en">
   <head>
