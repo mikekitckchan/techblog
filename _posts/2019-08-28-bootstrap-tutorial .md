@@ -104,7 +104,7 @@ Using this grid system, you can design some text alignment like below:-
 
 It will shows something like this:
 
-![image-20190425203538563](/Users/mikechan/Library/Application Support/typora-user-images/image-20190425203538563.png)
+<span class="image"><img src="{{ 'assets/images/bootstraptutorial2.png' | relative_url }}" alt="" /></span>
 
 So, I made two rows and two columns, each column occupies around 1/4 of the screen's width.
 
@@ -144,4 +144,4 @@ However, the example above doesn't look and In Bootstrap, you can put everything
 
 In the example above, we put everything in a container. Then use css to place the container 30% from the left and 25% from the top. Thus, it would be showing something like below:
 
-![image-20190425211453027](/Users/mikechan/Documents/Bootstrap tutorial/image-20190425211453027.png)
+<span class="image"><img src="{{ 'assets/images/bootstraptutorial3.png' | relative_url }}" alt="" /></span>
