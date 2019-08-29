@@ -41,7 +41,6 @@ That's it! Setting up bootstrap is as simple as that. Now, you are ready to make
 
 ## 2. A Basic Grid System of Bootstrap
 
-### 2.1 Basic Concept of Grid System
 
 Before start our coding, lets understand what is a grid system in Bootstrap. In Bootstrap, you can control the size of each div by grid. Bootstrap grid system divide a screen into 12 columns. For example, if you tell Bootstrap that your div class would occupies 12 columns, it means that your div class would occupies 100% of the screen width. If your div class occupies 6 columns, it would be half of the screen. Also, you can design your div class to occupies different screen width for different devies. For example, you can tell Bootstrap that your div class would occupies 12 columns for large devices like desktop but just 6 columns for mid-sized devies like laptop. Then you can simply define it by <div class = "col-lg-12 col-md-6">.  A list of definition syntax is as shown in table below:
 
@@ -108,9 +107,7 @@ It will shows something like this:
 
 So, I made two rows and two columns, each column occupies around 1/4 of the screen's width.
 
-### 2.2 Making Grid with Container
-
-However, the example above doesn't look and In Bootstrap, you can put everything into a container for easy management. Using the previous example, you can amend slightly like below:
+However, the example above doesn't look nice as everything is aligned top and left. In Bootstrap, you can put everything into a container for easy management. Using the previous example, you can amend slightly like below:
 
 ```html
 <body>
@@ -142,6 +139,10 @@ However, the example above doesn't look and In Bootstrap, you can put everything
   </body>
 ```
 
-In the example above, we put everything in a container. Then use css to place the container 30% from the left and 25% from the top. Thus, it would be showing something like below:
+In the example above, we put everything in a container. Then we can use css to place the container 30% from the left and 25% from the top. Now, it look much better than before:
 
 <span class="image"><img src="{{ 'assets/images/bootstraptutorial3.png' | relative_url }}" alt="" /></span>
+
+## Adding Bootstrap default Component
+
+In Bootstrap, there are many default components like navbar and buttons etc. You can find these all from www.getbootstrap.com.
