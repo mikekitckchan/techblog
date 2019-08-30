@@ -6,7 +6,7 @@ layout: post
 
 ## 1. What is Bootstrap
 
-Bootstrap is an opensource tool for website design using HTML, CSS and Javascript. It is very powerful for developing Responsive Web App (RWA). This tutorial would discuss some basic skills in how to use this powerful tool in your web development. 
+Bootstrap is an opensource tool for website design using HTML, CSS and Javascript. It is very powerful for developing Responsive Web Development (RWD). This tutorial would discuss some basic skills in how to use this powerful tool in your web development. 
 
 So, to begin, how to setup? To include bootstrap in your project, you don't need to install or download anything. You can simply go to https://getbootstrap.com. And click get started.
 
@@ -145,4 +145,4 @@ In the example above, we put everything in a container. Then we can use css to p
 
 ## Adding Bootstrap default Component
 
-In Bootstrap, there are many default components like navbar and buttons etc. You can find these all from www.getbootstrap.com.
+In Bootstrap, there are many default components like navbar and buttons etc. You can find these all from www.getbootstrap.com. For example, if you go to 
