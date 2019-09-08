@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _bootstrapposts = site.posts.bootstrap | sort: 'date' | reverse -%}
+{%- assign _bootstrapposts = site.posts.categories.bootstrap | sort: 'date' | reverse -%}
 {%- include header.html scrolly_nav=_bootstrapposts -%}
 <!-- Main -->
 <div id="main">
