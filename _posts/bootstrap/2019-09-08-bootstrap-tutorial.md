@@ -2,8 +2,8 @@
 title: A Beginner Guide to Bootstrap
 author: Mike Chan
 layout: post
-category: bootstrap
 ---
+
 
 ## 1. What is Bootstrap
 
