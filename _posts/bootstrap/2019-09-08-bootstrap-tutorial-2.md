@@ -50,7 +50,7 @@ So, in our first version, we put a form-group into a container. A form-group is 
 
 But as you can see, the login page looks very ugly as all the input field are aligned to the top of the screen. Also, the email and password fields are too close to each other. To solve this problem, we can put the two input a form-row div class. Then, in the div class, set its top padding to 4px to separate these two rows. To do this, you can simply put pt-4 inside the div class. pt stands for padding top. So, the codes of form-group would be look something like below:
 
-`
+```html
 <form>
   <div class="form-group">
     <div class = "form-row pt-4">
@@ -73,14 +73,14 @@ To move the whole things down to around middle of the screen, you can simply add
         margin-top: 25%;
     }
 </style>
-`
+```
 This is to tell the browser to place container to place a margin at top to around 25% of the screen. So, combining the two codes above, the result would look something like this:
 
 <span class="image"><img src="{{ 'assets/images/bootstrap22.png' | relative_url }}" alt="" /></span>
 
 So, now. Still not quite yet. I think we should add a header to the login box. Also, I think the login box to too wide. So, I would put col-md-6 into container div class to set the whole container's width to be half of the screen. Then, I would add border line to the container. A complete code of the whole things can look something like below:
 
-`
+```html
 <body>
 
     <div id="login" class = "container col-md-6">
@@ -108,7 +108,7 @@ So, now. Still not quite yet. I think we should add a header to the login box. A
     }
     </style> 
 </body>
-`
+```
 And the result would be look like this:
 
 <span class="image"><img src="{{ 'assets/images/bootstrap23.png' | relative_url }}" alt="" /></span>
