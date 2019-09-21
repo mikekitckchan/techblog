@@ -14,7 +14,7 @@ link of bootstrap within ```<head> ```. If you are not familar with how to inclu
 ## 2. Container
 As per the first section, we can put everything into a container for easy management. We can start off our first version of login page as below:
 
-`html
+```html
 <!doctype html>
 <html lang="en">
   <head>
@@ -42,7 +42,7 @@ As per the first section, we can put everything into a container for easy manage
 
   
 </body>
-`
+```
 So, in our first example, we put a form-group into a container. A form-group is a kind of components in Bootstrap. For details, you can check out more from getbootstrap.com. The codes above would shows you something like below:
 
 <span class="image"><img src="{{ 'assets/images/Screen Shot 2019-09-21 at 11.54.45 AM.png.png' | relative_url }}" alt="" /></span>
