@@ -38,8 +38,7 @@ email: mikekitckchan@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: ""
-url=""
+baseurl: 
 exclude: 
 permalink: pretty
 
